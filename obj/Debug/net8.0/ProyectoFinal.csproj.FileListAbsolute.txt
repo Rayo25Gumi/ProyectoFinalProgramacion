@@ -1,0 +1,11 @@
+/Users/marc/Documents/Clase/Programación/3r Trimestre/Proyecto Final/ProyectoFinal/obj/Debug/net8.0/ProyectoFinal.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marc/Documents/Clase/Programación/3r Trimestre/Proyecto Final/ProyectoFinal/obj/Debug/net8.0/ProyectoFinal.AssemblyInfoInputs.cache
+/Users/marc/Documents/Clase/Programación/3r Trimestre/Proyecto Final/ProyectoFinal/obj/Debug/net8.0/ProyectoFinal.AssemblyInfo.cs
+/Users/marc/Documents/Clase/Programación/3r Trimestre/Proyecto Final/ProyectoFinal/obj/Debug/net8.0/ProyectoFinal.csproj.CoreCompileInputs.cache
+/Users/marc/Documents/Clase/Programación/3r Trimestre/Proyecto Final/ProyectoFinal/bin/Debug/net8.0/ProyectoFinal
+/Users/marc/Documents/Clase/Programación/3r Trimestre/Proyecto Final/ProyectoFinal/bin/Debug/net8.0/ProyectoFinal.dll
+/Users/marc/Documents/Clase/Programación/3r Trimestre/Proyecto Final/ProyectoFinal/bin/Debug/net8.0/ProyectoFinal.pdb
+/Users/marc/Documents/Clase/Programación/3r Trimestre/Proyecto Final/ProyectoFinal/obj/Debug/net8.0/ProyectoFinal.dll
+/Users/marc/Documents/Clase/Programación/3r Trimestre/Proyecto Final/ProyectoFinal/obj/Debug/net8.0/refint/ProyectoFinal.dll
+/Users/marc/Documents/Clase/Programación/3r Trimestre/Proyecto Final/ProyectoFinal/obj/Debug/net8.0/ProyectoFinal.pdb
+/Users/marc/Documents/Clase/Programación/3r Trimestre/Proyecto Final/ProyectoFinal/obj/Debug/net8.0/ProyectoFinal.sourcelink.json
